@@ -1,5 +1,7 @@
    [
         {
+            "id": 1,
+            "iscollect":false, 
             "name": "狐妖小红娘",
             "description": "简介：根据古典小说记载，世上有人有妖，妖会与人相恋，妖寿命千万年，人的寿命有限，人死了，妖活着。人会投胎转世，但投胎以后，不记得上辈子的爱。妖如果痴情的话，就去找狐妖“购买”一项服务，让投胎转世的人，回忆起前世的爱。",
             "Rating": "9.7",
@@ -9,6 +11,8 @@
             "img": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_match%2F0%2F12217027908%2F0&refer=http%3A%2F%2Finews.gtimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650536264&t=8dba74a8d565c82856a204172c1d9d9c",
             "content":"https://raw.githubusercontent.com/dearyangyun/bysj/picture/pictures1.json"
         },{
+           "id": 2,
+            "iscollect":false, 
             "name": "斗罗大陆",
             "description": "简介：根据唐家三少小说《斗罗大陆》 [3]  改编的漫画。唐门外门弟子唐三，因偷学内门绝学为唐门所不容，跳崖时却来到了另一个世界，一个属于武魂的世界。名叫斗罗大陆。这里没有魔法，没有斗气，没有武术，却有神奇的武魂，这里的每个人，在自己六岁的时候，都会在武魂殿中令武魂觉醒。武魂有动物，有植物，有器物，不同的武魂有不同的威力和作用，因而，有些武魂威力过小则被称为废武魂。它们可以辅助人们的日常生活。而其中一些特别出色的武魂却可以用来修炼，这个职业，是斗罗大陆上最为强大也是最重要的职业——魂师。",
             "Rating": "8.8",
@@ -18,6 +22,8 @@
             "img": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimage.diyiyou.com%2Fgame%2F202108%2F30%2F1630315187_5.jpg&refer=http%3A%2F%2Fimage.diyiyou.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650536766&t=1938935ebb786482bee83cf7705929b4",
             "content":"https://raw.githubusercontent.com/dearyangyun/bysj/picture/pictures2.json"
         },{
+           "id": 3,
+            "iscollect":false, 
             "name": "一人之下",
             "description": "简介：大学生张楚岚清明回乡，遭遇神秘少女冯宝宝。素未谋面的冯宝宝却对张楚岚异常熟悉，并将其带去自己打工的快递公司。为了帮冯宝宝寻找她的身世，也为了查清自己与爷爷身上的秘密，张楚岚的生活被彻底颠覆，与冯宝宝一同踏上“异人”之旅。",
             "Rating": "9.8",
@@ -27,6 +33,8 @@
             "img": "https://pics7.baidu.com/feed/f9dcd100baa1cd11ecfef6c606c37ffac1ce2de0.jpeg?token=8e9a7c8be48afe6c1b9e659584032e7d",
             "content":"https://raw.githubusercontent.com/dearyangyun/bysj/picture/pictures3.json"
         },{
+           "id": 4,
+            "iscollect":false, 
             "name": "魁拔",
             "description": "简介：这个世界名为元泱境界，脉（本质为振动）是构成万物的基础。每隔333年，会有一个神秘而强大的异常生物重生，它就是魁拔！魁拔的每一次出现，都会给元泱境界带来巨大的灾难！即便是天界的神族，也在劫难逃。在天地两界各种力量的全力打击下，魁拔一次次被消灭，但又总是按333年的周期重新出现。魁拔纪元1664年，天神经过精确测算后，在魁拔苏醒前一刻对其进行毁灭性打击。但谁都没有想到，由于一个差错导致新一代魁拔成功地逃脱了致命一击。很快，天界魁拔司和地界神圣联盟均探测到了魁拔依然生还的迹象。因此，找到魁拔，彻底消灭魁拔，再一次成了各地热血勇士的终极目标。",
             "Rating": "9.7",
@@ -36,6 +44,8 @@
             "img": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fs3.sinaimg.cn%2Fbmiddle%2F8d733051tb1c1fc1a46f2%26690&refer=http%3A%2F%2Fs3.sinaimg.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650814777&t=40876b64f800cf74d271cc121601e445",
             "content":"https://raw.githubusercontent.com/dearyangyun/bysj/picture/pictures4.json"
         },{
+           "id": 5,
+            "iscollect":false, 
             "name": "斗破苍穹",
             "description": "简介：心潮澎湃，无限幻想，迎风挥击千层浪，少年不败热血！等级制度：斗之气，斗者，斗师，大斗师，斗灵，斗王，斗皇，斗宗，斗尊，斗圣，斗帝。远古八族：古、萧、魂、药、雷、炎、石、灵。",
             "Rating": "9.8",
@@ -45,6 +55,8 @@
             "img": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F202005%2F20%2F20200520162518_tagbj.thumb.400_0.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650811770&t=27aa047e6e7db46e2b4cc6ed2e3c368e",
             "content":"https://raw.githubusercontent.com/dearyangyun/bysj/picture/pictures5.json"
         },{
+           "id": 6,
+            "iscollect":false, 
             "name": "从前有座灵剑山",
             "description": "简介：因彗星陨落，从地球穿越而降临的奇才，怀着千年未有的空灵根，踏入灵剑派山门，走上了一条成为智商碾压异界，成为绝世强者的不寻常路！",
             "Rating": "9.4",
