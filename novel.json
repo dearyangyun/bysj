@@ -71,5 +71,14 @@
             "studio":"杜牧",
             "img": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.blog.163.com%2Fphoto%2FNfA4ivkjQ9RwaSUdljGSSQ%3D%3D%2F2263058812754432731.jpg&refer=http%3A%2F%2Fimg.blog.163.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650852368&t=7a13f32ea02fe7e3c8fb1df3325a46b3",
             "read":"https://raw.githubusercontent.com/dearyangyun/bysj/stories/epgf.json"
+        },{
+            "name": "阿房宫赋",
+            "description": "简介：《赤壁赋》是北宋文学家苏轼创作的一篇赋，作于宋神宗元丰五年（1082年）作者贬谪黄州（今湖北黄冈）时。此赋记叙了作者与朋友们月夜泛舟游赤壁的所见所感，以作者的主观感受为线索，通过主客问答的形式，反映了作者由月夜泛舟的舒畅，到怀古伤今的悲咽，再到精神解脱的达观。",
+            "Rating": "9.7",
+            "episode": 3,
+            "categorie":"赋",
+            "studio":"苏轼",
+            "img": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fchuangshicdn.mpres.51vv.com%2Fv_block%2Fd2054a6e845feb8ac5d959a248a914fb.jpg&refer=http%3A%2F%2Fchuangshicdn.mpres.51vv.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1651714680&t=d27b2d7173e467a39898e254734710bf",
+            "read":""
         }
     ]
