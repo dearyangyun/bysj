@@ -1,84 +1,94 @@
-   [
-        {
-            "name": "长恨歌",
-            "description": "《长恨歌》是白居易诗作中脍炙人口的名篇，作于元和元年（806），当时诗人正在盩厔县（今陕西周至）任县尉。这首诗是他和友人陈鸿、王质夫同游仙游寺，有感于唐玄宗、杨贵妃的故事而创作的。在这首长篇叙事诗里，作者以精炼的语言，优美的形象，叙事和抒情结合的手法，叙述了唐玄　宗、杨贵妃在安史之乱中的爱情悲剧。",
-            "Rating": "9.8",
-            "episode": 12,
-            "categorie":"诗歌",
-            "studio":"白居易",
-            "img": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20170703%2Fcc0e7f54d4fe46b1852928c4e99df8bc.png&refer=http%3A%2F%2F5b0988e595225.cdn.sohucs.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650265368&t=d8c6a7cd5cb31471390c43bf1fc0283c",
-            "read":"https://raw.githubusercontent.com/dearyangyun/bysj/stories/chg.json"
-        },{
-            "name": "呐喊",
-            "description": "《呐喊》是现代文学家鲁迅的短篇小说集，收录鲁迅于1918年至1922年所作的14篇短篇小说，1923年由北京新潮社出版，现编入《鲁迅全集》第1卷。小说集真实地描绘了从辛亥革命到五四运动时期的社会生活，从革命民主主义出发，抱着启蒙主义目的和人道主义精神，揭示了种种深层次的社会矛盾，对旧时中国的制度及部分陈腐的传统观念进行了深刻的剖析和比较彻底的否定，表现出对民族生存浓重的忧患意识和对社会变革的强烈希望。",
-            "Rating": "9.8",
-            "episode":12,
-            "categorie":"辛亥革命",
-            "studio":"鲁迅",
-            "img": "https://img1.baidu.com/it/u=547584602,1604453363&fm=253&fmt=auto&app=138&f=JPEG?w=581&h=500",
-            "read":"https://raw.githubusercontent.com/dearyangyun/bysj/stories/nh.json"
-        },{
-            "name": "离骚",
-            "description": "简介：宋代著名史学家、词宋祁说：“《离骚》为词赋之祖，后人为之，如至方不能加矩，至圆不能过规。”",
-            "Rating": "10",
-            "episode": 1,
-            "categorie":"楚辞",
-            "studio":"屈原",
-            "img": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_jpg%2FRRqlSrY2z9ViaibpIicpVfB22CT83fzosJE0dBukWaofvcZuFcqwKibUA5w7ApghcrwMyPg7r4df4WAbnUsPAX2AYA%2F0%3Fwx_fmt%3Djpeg&refer=http%3A%2F%2Fmmbiz.qpic.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650850471&t=e0a08bd06d20d95106f98eec61f29f03",
-            "read":"https://raw.githubusercontent.com/dearyangyun/bysj/stories/ls.json"
-        },{
-            "name": "劝学",
-            "description": "简介：《劝学》是战国时期思想家、文学家荀子创作的一篇论说文，是《荀子》一书的首篇。这篇文章分别从学习的重要性、学习的态度以及学习的内容和方法等方面，全面而深刻地论说了有关学习的问题，较为系统地体现了荀子的教育思想。全文可分四段，第一段阐明学习的重要性，第二段说明正确的学习态度，第三段论述学习的内容和途径，第四段阐述学习的最终归宿。文章语言精练，设喻贴切，说理深入，结构严谨，代表了先秦论说文成熟阶段的水平。",
-            "Rating": "10",
-            "episode": 1,
-            "categorie":"论说文",
-            "studio":"荀子",
-            "img": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F11387806248%2F1000.jpg&refer=http%3A%2F%2Finews.gtimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650851036&t=8384f835b9c5ead2e4d23e72edc35df2",
-            "read":"https://raw.githubusercontent.com/dearyangyun/bysj/stories/qx.json"
-        },{
-            "name": "木兰诗",
-            "description": "简介：《木兰》是中国南北朝时期北方的一首长篇叙事民歌，也是一篇乐府诗。记述了木兰女扮男装，代父从军，征战沙场，凯旋回朝，建功受封，辞官还家的故事，充满传奇色彩。",
-            "Rating": "9.8",
-            "episode": 1,
-            "categorie":"乐府诗",
-            "studio":"《乐府诗集》",
-            "img": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fcdn103.img.lizhi.fm%2Faudio_cover%2F2016%2F06%2F17%2F29311991097430023_320x320.jpg&refer=http%3A%2F%2Fcdn103.img.lizhi.fm&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650851119&t=eff298e02aaec875075c8b5b752fdc62",
-            "read":"https://raw.githubusercontent.com/dearyangyun/bysj/stories/mls.json"
-        },{
-            "name": "琵琶行",
-            "description": "简介：《琵琶行》是唐代诗人白居易创作的长篇叙事诗。此诗通过对琵琶女高超弹奏技艺和她不幸经历的描述，揭露了封建社会官僚腐败、民生凋敝、人才埋没等不合理现象，表达了诗人对她的深切同情，也抒发了诗人对自己无辜被贬的愤懑之情。全诗叙事与抒情紧密结合，塑造出完整鲜明的人物形象；语言流转匀称，优美和谐，特别是描绘琵琶的演奏，比喻贴切，化虚为实，呈现出鲜明的音乐形象。",
-            "Rating": "9.9",
-            "episode": 1,
-            "categorie":"七言歌行",
-            "studio":"白居易",
-            "img": "https://img1.baidu.com/it/u=2831267924,3219946723&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=902",
-            "read":"https://raw.githubusercontent.com/dearyangyun/bysj/stories/ppx.json"
-        },{
-            "name": "燕歌行",
-            "description": "简介：《燕歌行》是唐人七言歌行中运用律句很典型的一篇。全诗用韵依次为入声“职”部、平声“删”部、上声“麌”部、平声“微”部、上声“有”部、平声“文”部，恰好是平仄相间，抑扬有节。除结尾两句外，押平韵的句子，对偶句自不待言，非对偶句也符合律句的平仄，如“摐金伐鼓下榆关，旌旆逶迤碣石间”；押仄韵的句子，对偶的上下句平仄相对也是很严整的，如“杀气三时作阵云，寒声一夜传刁斗。”这样的音调之美，正是“金戈铁马之声，有玉磐鸣球之节”。",
-            "Rating": "9.8",
-            "episode": 24,
-            "categorie":"边塞诗",
-            "studio":"高适",
-            "img": "https://img0.baidu.com/it/u=3947608634,1984026984&fm=253&fmt=auto&app=120&f=GIF?w=643&h=600",
-            "read":"https://raw.githubusercontent.com/dearyangyun/bysj/stories/ygx.json"
-        },{
-            "name": "阿房宫赋",
-            "description": "简介：《阿房宫赋》是唐代文学家杜牧的赋作。此赋通过对阿房宫兴建及毁灭的描写，生动形象地总结了秦朝统治者骄奢亡国的历史教训，向唐朝统治者发出了警告，表现出一个正直文人忧国忧民、匡世济俗的情怀。全赋运用了想像、比喻、夸张等手法以及描写、铺排、议论等方式，骈散结合，错落有致。文章语言精练，工整而不堆砌，富丽而不浮华，气势雄健，风格豪放。",
-            "Rating": "9.8",
-            "episode": 3,
-            "categorie":"辞赋",
-            "studio":"杜牧",
-            "img": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.blog.163.com%2Fphoto%2FNfA4ivkjQ9RwaSUdljGSSQ%3D%3D%2F2263058812754432731.jpg&refer=http%3A%2F%2Fimg.blog.163.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650852368&t=7a13f32ea02fe7e3c8fb1df3325a46b3",
-            "read":"https://raw.githubusercontent.com/dearyangyun/bysj/stories/epgf.json"
-        },{
-            "name": "赤壁赋",
-            "description": "简介：《赤壁赋》是北宋文学家苏轼创作的一篇赋，作于宋神宗元丰五年（1082年）作者贬谪黄州（今湖北黄冈）时。此赋记叙了作者与朋友们月夜泛舟游赤壁的所见所感，以作者的主观感受为线索，通过主客问答的形式，反映了作者由月夜泛舟的舒畅，到怀古伤今的悲咽，再到精神解脱的达观。",
-            "Rating": "9.7",
-            "episode": 3,
-            "categorie":"赋",
-            "studio":"苏轼",
-            "img": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fchuangshicdn.mpres.51vv.com%2Fv_block%2Fd2054a6e845feb8ac5d959a248a914fb.jpg&refer=http%3A%2F%2Fchuangshicdn.mpres.51vv.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1651714680&t=d27b2d7173e467a39898e254734710bf",
-            "read":""
-        }
-    ]
+{
+  "result":    [
+    {
+      "name": "长恨歌",
+      "description": "《长恨歌》是白居易诗作中脍炙人口的名篇，作于元和元年（806），当时诗人正在盩厔县（今陕西周至）任县尉。这首诗是他和友人陈鸿、王质夫同游仙游寺，有感于唐玄宗、杨贵妃的故事而创作的。在这首长篇叙事诗里，作者以精炼的语言，优美的形象，叙事和抒情结合的手法，叙述了唐玄　宗、杨贵妃在安史之乱中的爱情悲剧。",
+      "Rating": "9.8",
+      "episode": 12,
+      "categorie":"诗歌",
+      "studio":"白居易",
+      "id": 1,
+      "iscollect":false,
+      "img": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20170703%2Fcc0e7f54d4fe46b1852928c4e99df8bc.png&refer=http%3A%2F%2F5b0988e595225.cdn.sohucs.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650265368&t=d8c6a7cd5cb31471390c43bf1fc0283c",
+      "read":"https://raw.githubusercontent.com/dearyangyun/bysj/stories/chg.json"
+    },{
+      "name": "呐喊",
+      "description": "《呐喊》是现代文学家鲁迅的短篇小说集，收录鲁迅于1918年至1922年所作的14篇短篇小说，1923年由北京新潮社出版，现编入《鲁迅全集》第1卷。小说集真实地描绘了从辛亥革命到五四运动时期的社会生活，从革命民主主义出发，抱着启蒙主义目的和人道主义精神，揭示了种种深层次的社会矛盾，对旧时中国的制度及部分陈腐的传统观念进行了深刻的剖析和比较彻底的否定，表现出对民族生存浓重的忧患意识和对社会变革的强烈希望。",
+      "Rating": "9.8",
+      "episode":12,
+      "categorie":"辛亥革命",
+      "studio":"鲁迅",
+      "id": 2,
+      "iscollect":false,
+      "img": "https://img1.baidu.com/it/u=547584602,1604453363&fm=253&fmt=auto&app=138&f=JPEG?w=581&h=500",
+      "read":"https://raw.githubusercontent.com/dearyangyun/bysj/stories/nh.json"
+    },{
+      "name": "离骚",
+      "description": "简介：宋代著名史学家、词宋祁说：“《离骚》为词赋之祖，后人为之，如至方不能加矩，至圆不能过规。”",
+      "Rating": "10",
+      "episode": 1,
+      "categorie":"楚辞",
+      "studio":"屈原",
+      "id": 3,
+      "iscollect":false,
+      "img": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_jpg%2FRRqlSrY2z9ViaibpIicpVfB22CT83fzosJE0dBukWaofvcZuFcqwKibUA5w7ApghcrwMyPg7r4df4WAbnUsPAX2AYA%2F0%3Fwx_fmt%3Djpeg&refer=http%3A%2F%2Fmmbiz.qpic.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650850471&t=e0a08bd06d20d95106f98eec61f29f03",
+      "read":"https://raw.githubusercontent.com/dearyangyun/bysj/stories/ls.json"
+    },{
+      "name": "劝学",
+      "description": "简介：《劝学》是战国时期思想家、文学家荀子创作的一篇论说文，是《荀子》一书的首篇。这篇文章分别从学习的重要性、学习的态度以及学习的内容和方法等方面，全面而深刻地论说了有关学习的问题，较为系统地体现了荀子的教育思想。全文可分四段，第一段阐明学习的重要性，第二段说明正确的学习态度，第三段论述学习的内容和途径，第四段阐述学习的最终归宿。文章语言精练，设喻贴切，说理深入，结构严谨，代表了先秦论说文成熟阶段的水平。",
+      "Rating": "10",
+      "episode": 1,
+      "categorie":"论说文",
+      "studio":"荀子",
+      "id": 4,
+      "iscollect":false,
+      "img": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F11387806248%2F1000.jpg&refer=http%3A%2F%2Finews.gtimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650851036&t=8384f835b9c5ead2e4d23e72edc35df2",
+      "read":"https://raw.githubusercontent.com/dearyangyun/bysj/stories/qx.json"
+    },{
+      "name": "木兰诗",
+      "description": "简介：《木兰》是中国南北朝时期北方的一首长篇叙事民歌，也是一篇乐府诗。记述了木兰女扮男装，代父从军，征战沙场，凯旋回朝，建功受封，辞官还家的故事，充满传奇色彩。",
+      "Rating": "9.8",
+      "episode": 1,
+      "id": 5,
+      "categorie":"乐府诗",
+      "studio":"《乐府诗集》",
+      "iscollect":false,
+      "img": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fcdn103.img.lizhi.fm%2Faudio_cover%2F2016%2F06%2F17%2F29311991097430023_320x320.jpg&refer=http%3A%2F%2Fcdn103.img.lizhi.fm&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650851119&t=eff298e02aaec875075c8b5b752fdc62",
+      "read":"https://raw.githubusercontent.com/dearyangyun/bysj/stories/mls.json"
+    },{
+      "name": "琵琶行",
+      "description": "简介：《琵琶行》是唐代诗人白居易创作的长篇叙事诗。此诗通过对琵琶女高超弹奏技艺和她不幸经历的描述，揭露了封建社会官僚腐败、民生凋敝、人才埋没等不合理现象，表达了诗人对她的深切同情，也抒发了诗人对自己无辜被贬的愤懑之情。全诗叙事与抒情紧密结合，塑造出完整鲜明的人物形象；语言流转匀称，优美和谐，特别是描绘琵琶的演奏，比喻贴切，化虚为实，呈现出鲜明的音乐形象。",
+      "Rating": "9.9",
+      "episode": 1,
+      "categorie":"七言歌行",
+      "studio":"白居易",
+      "id": 6,
+      "iscollect":false,
+      "img": "https://img1.baidu.com/it/u=2831267924,3219946723&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=902",
+      "read":"https://raw.githubusercontent.com/dearyangyun/bysj/stories/ppx.json"
+    },{
+      "name": "燕歌行",
+      "description": "简介：《燕歌行》是唐人七言歌行中运用律句很典型的一篇。全诗用韵依次为入声“职”部、平声“删”部、上声“麌”部、平声“微”部、上声“有”部、平声“文”部，恰好是平仄相间，抑扬有节。除结尾两句外，押平韵的句子，对偶句自不待言，非对偶句也符合律句的平仄，如“摐金伐鼓下榆关，旌旆逶迤碣石间”；押仄韵的句子，对偶的上下句平仄相对也是很严整的，如“杀气三时作阵云，寒声一夜传刁斗。”这样的音调之美，正是“金戈铁马之声，有玉磐鸣球之节”。",
+      "Rating": "9.8",
+      "episode": 24,
+      "id": 7,
+      "categorie":"边塞诗",
+      "studio":"高适",
+      "iscollect":false,
+      "img": "https://img0.baidu.com/it/u=3947608634,1984026984&fm=253&fmt=auto&app=120&f=GIF?w=643&h=600",
+      "read":"https://raw.githubusercontent.com/dearyangyun/bysj/stories/ygx.json"
+    },{
+      "name": "阿房宫赋",
+      "description": "简介：《阿房宫赋》是唐代文学家杜牧的赋作。此赋通过对阿房宫兴建及毁灭的描写，生动形象地总结了秦朝统治者骄奢亡国的历史教训，向唐朝统治者发出了警告，表现出一个正直文人忧国忧民、匡世济俗的情怀。全赋运用了想像、比喻、夸张等手法以及描写、铺排、议论等方式，骈散结合，错落有致。文章语言精练，工整而不堆砌，富丽而不浮华，气势雄健，风格豪放。",
+      "Rating": "9.8",
+      "episode": 3,
+      "categorie":"辞赋",
+      "id": 8,
+      "studio":"杜牧",
+      "iscollect":false,
+      "img": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.blog.163.com%2Fphoto%2FNfA4ivkjQ9RwaSUdljGSSQ%3D%3D%2F2263058812754432731.jpg&refer=http%3A%2F%2Fimg.blog.163.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650852368&t=7a13f32ea02fe7e3c8fb1df3325a46b3",
+      "read":"https://raw.githubusercontent.com/dearyangyun/bysj/stories/epgf.json"
+    }
+  ]
+
+}
