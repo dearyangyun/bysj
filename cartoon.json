@@ -1,5 +1,4 @@
-{
-  "result":    [
+[
     {
       "name": "狐妖小红娘",
       "description": "简介：根据古典小说记载，世上有人有妖，妖会与人相恋，妖寿命千万年，人的寿命有限，人死了，妖活着。人会投胎转世，但投胎以后，不记得上辈子的爱。妖如果痴情的话，就去找狐妖“购买”一项服务，让投胎转世的人，回忆起前世的爱。",
@@ -67,6 +66,5 @@
       "img": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201707%2F13%2F20170713091849_BtKxV.thumb.700_0.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650811934&t=bcaaf8c9941df104551a09e518be28a0",
       "content":"https://raw.githubusercontent.com/dearyangyun/bysj/picture/pictures6.json"
     }
-  ]
+]
 
-}
