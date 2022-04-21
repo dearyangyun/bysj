@@ -1,5 +1,4 @@
-{
-  "result":    [
+[
     {
       "name": "长恨歌",
       "description": "《长恨歌》是白居易诗作中脍炙人口的名篇，作于元和元年（806），当时诗人正在盩厔县（今陕西周至）任县尉。这首诗是他和友人陈鸿、王质夫同游仙游寺，有感于唐玄宗、杨贵妃的故事而创作的。在这首长篇叙事诗里，作者以精炼的语言，优美的形象，叙事和抒情结合的手法，叙述了唐玄　宗、杨贵妃在安史之乱中的爱情悲剧。",
@@ -89,6 +88,4 @@
       "img": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.blog.163.com%2Fphoto%2FNfA4ivkjQ9RwaSUdljGSSQ%3D%3D%2F2263058812754432731.jpg&refer=http%3A%2F%2Fimg.blog.163.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650852368&t=7a13f32ea02fe7e3c8fb1df3325a46b3",
       "read":"https://raw.githubusercontent.com/dearyangyun/bysj/stories/epgf.json"
     }
-  ]
-
-}
+]
